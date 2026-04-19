@@ -7,10 +7,12 @@
 ## 🖼️ Dashboard-Vorschau
 
 ![Haupt-KPI-Panel](Haupt-KPI-Panel.png)
-![Kategorien – Pareto](Kategorien – Pareto.png)
-![Kunden – CLV](Kunden – CLV.png)
-![Kausalanalyse](Kausalanalyse (KI).png)
 
+![Kategorien – Pareto](Kategorien – Pareto.png)
+
+![Kunden – CLV](Kunden – CLV.png)
+
+![Kausalanalyse](Kausalanalyse (KI).png)
 ---
 
 ## 📌 Projektbeschreibung
