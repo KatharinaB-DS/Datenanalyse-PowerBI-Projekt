@@ -8,11 +8,11 @@
 
 ![Haupt-KPI-Panel](Haupt-KPI-Panel.png)
 
-![Kategorien – Pareto](Kategorien – Pareto.png)
+![Kategorien – Pareto](Kategorien%20–%20Pareto.png)
 
-![Kunden – CLV](Kunden – CLV.png)
+![Kunden – CLV](Kunden%20–%20CLV.png)
 
-![Kausalanalyse](Kausalanalyse (KI).png)
+![Kausalanalyse](Kausalanalyse%20(KI).png)
 ---
 
 ## 📌 Projektbeschreibung
